@@ -139,4 +139,8 @@ p {
     background-position: 0 0;
     border-radius: 0;
   }
+
+  .main__img:hover {
+    background-size: 300px;
+  }
 }
