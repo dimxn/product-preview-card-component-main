@@ -36,8 +36,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### What I learned
 
-I learned how to position elements in the center of the screenю
-This is shown in more detail belowю
+I learned how to position elements in the center of the screen.
+This is shown in more detail below.
 
 ```css
 .content {
