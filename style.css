@@ -99,6 +99,14 @@ p {
   cursor: pointer;
   transition: 0.3s ease;
   border-radius: 10px;
+  font-weight: 700;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.btn img {
+  margin-right: 10px;
 }
 
 .btn:hover {
