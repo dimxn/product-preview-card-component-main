@@ -22,8 +22,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [click!](https://github.com/dimxn/)
-- Live Site URL: [click!](https://dimxn.github.io/)
+- Solution URL: [click!](https://github.com/dimxn/product-preview-card-component-main/)
+- Live Site URL: [click!](https://dimxn.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -36,8 +36,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### What I learned
 
-I learned how to position elements in the center of the screenю
-This is shown in more detail belowю
+I learned how to position elements in the center of the screen.
+This is shown in more detail below.
 
 ```css
 .content {
